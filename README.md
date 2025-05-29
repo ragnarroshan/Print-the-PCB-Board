@@ -64,8 +64,10 @@ Soldering in PTH assembly is commonly done using wave soldering or hand solderin
 
 ## EXPECTED OUTPUT:
 ### Fabrication board:
- 
+ ![image](https://github.com/user-attachments/assets/74fa93b7-5ef0-4001-94a4-fac766c90d25)
+
 ### Final Printed Circuit Board:
+![image](https://github.com/user-attachments/assets/c661e7e1-91c5-4e34-a54a-0a50885b0ee2)
 
 ## RESULT:
 Thus, the printed circuit board for the automatic street light control system was successfully fabricated using CNC milling and UV masking techniques. All components were assembled and soldered onto the PCB, and the final circuit was tested to verify its correct operation.
